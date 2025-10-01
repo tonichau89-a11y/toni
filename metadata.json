@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Summarizer & Optimizer",
+  "description": "An AI-powered tool to automatically summarize articles from a URL into various lengths, generate catchy titles, and suggest relevant tags for social media. Supports multiple languages and summarization styles.",
+  "requestFramePermissions": []
+}
